@@ -2,5 +2,7 @@
     "title":"技术博客",
     "subTitle":"记录python开发心得",
     "avatarUrl":"https://avatars.githubusercontent.com/u/1370636?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
