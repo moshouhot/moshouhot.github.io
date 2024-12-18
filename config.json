@@ -8,12 +8,5 @@
     "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "style": "<style>.footer span a[href*='Gmeek'] { display: none; } .footer span:has(a[href*='Gmeek']) { display: none; }</style>",
-    "indexStyle": "<style>.blog-item { transition: all 0.3s ease; } .blog-item:hover { transform: translateX(10px); }</style>",    
-    "head": "<meta name='description' content='记录python开发心得的技术博客'><meta name='keywords' content='Python,开发,技术博客'>",
-    "bottomText": "本站所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明出处！",
-    "onePageListNum": 20,
-    "primerCSS": "https://cdn.jsdelivr.net/npm/@primer/css@21.0.7/dist/primer.min.css",
-    "i18n": "CN",
-    "UTC": 8,
-    "urlMode": "pinyin"
+    "onePageListNum": 20
 }
