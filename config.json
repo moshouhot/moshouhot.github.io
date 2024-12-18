@@ -9,7 +9,7 @@
     "themeMode": "manual",
     "dayTheme": "light",
     "nightTheme": "dark_colorblind",
-    "style": "<style>.markdown-body img { border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); } .footer span:last-child { display: none; }</style>",
+    "style": "<style>.markdown-body img { border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }</style>",
     "indexStyle": "<style>.blog-item { transition: all 0.3s ease; } .blog-item:hover { transform: translateX(10px); }</style>",
     "ogImage": "https://avatars.githubusercontent.com/u/1370636?v=4",
     "head": "<meta name='description' content='记录python开发心得的技术博客'><meta name='keywords' content='Python,开发,技术博客'>",
